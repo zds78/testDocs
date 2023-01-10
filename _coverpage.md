@@ -3,7 +3,7 @@
 
 <!-- ![logo](_media/icon.jpg) -->
 
-# 自主学习培训系统 <small>北京王老师</small>
+# 自主学习培训系统 北京王老师 <small>zdsDocs</small>
 
 > 自主学习培训系统介绍
 
