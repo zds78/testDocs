@@ -12,14 +12,14 @@
 
 <video id="video1" width="320" height="240" controls preload="none" poster="封面" style="border:2px solid black"  >
 
-      <source id="mp4" src="https://staging-cnbj2-fds.api.xiaomi.net/image-gen-sky/test.mp4?GalaxyAccessKeyId=5151729087601&Expires=1673409199528&Signature=+GpCoi7rTvMUcU2jsRE4HAGMwuo=" type="video/mp4">
+      <source id="mp41" src="https://staging-cnbj2-fds.api.xiaomi.net/image-gen-sky/test.mp4?GalaxyAccessKeyId=5151729087601&Expires=1673409199528&Signature=+GpCoi7rTvMUcU2jsRE4HAGMwuo=" type="video/mp4">
 
 </video>
 
 
 <video id="video2"  width="320" height="240" controls preload="none" poster="封面" style="border:2px solid red"  >
 
-      <source id="mp4" src="test.mp4" type="video/mp4">
+      <source id="mp42" src="test.mp4" type="video/mp4">
 
 </video>
 
