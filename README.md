@@ -17,6 +17,13 @@
 </video>
 
 
+<video id="video2"  width="320" height="240" controls preload="none" poster="封面" style="border:2px solid red"  >
+
+      <source id="mp4" src="_media/test.mp4" type="video/mp4">
+
+</video>
+
+
 > An awesome project. 1 
 
 - z1
