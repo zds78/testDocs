@@ -20,6 +20,7 @@
 <video id="video2"  width="320" height="240" controls preload="none" poster="封面" style="border:2px solid red"  >
 
       <source id="mp42" src="test.mp4" type="video/mp4">
+      <source id="mp421" src="./test.mp4" type="video/mp4">
 
 </video>
 
